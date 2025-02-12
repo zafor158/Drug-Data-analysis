@@ -10,7 +10,7 @@ Data Source:
 
 # Web Scraping Methodology:
 Extracts comprehensive drug details, including:
-* Drug Name, Generic Name, Drug Class,Uses, Warnings, Dosage Information (including missed doses and overdoses),Side Effects and Pre-Use Instructions
+* Drug Name, Generic Name, Drug Class,Pre-Use Instructions, Warnings, Dosage Information (including missed doses and overdoses),Side Effects and interactions
 * Uses BeautifulSoup for parsing HTML and retrieving structured data.
 
 # Data Input & Output:
