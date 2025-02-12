@@ -1,5 +1,6 @@
 # Drug-Data-analysis
 📊 Dataset Collection & Visualization: Web Scraping with Python
+
 This project focuses on building an AI-powered drug recommendation system and medical chatbot using RAG (Retrieval-Augmented Generation). The dataset is collected from Drugs.com and other sources through web scraping, followed by data preprocessing and visualization for better insights.
 
 # 🔍 Data Collection Process
