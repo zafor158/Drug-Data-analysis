@@ -7,9 +7,9 @@ This project focuses on building an AI-powered drug recommendation system and me
 Data Source:
 * Primary Source: Drugs.com
 * Other credible sources for drug-related information
-* Web Scraping Methodology:
 
-# Extracts comprehensive drug details, including:
+# Web Scraping Methodology:
+* Extracts comprehensive drug details, including:
 * Drug Name, Generic Name, Drug Class,Uses, Warnings, Dosage Information (including missed doses and overdoses),Side Effects and Pre-Use Instructions
 * Uses BeautifulSoup for parsing HTML and retrieving structured data.
 
